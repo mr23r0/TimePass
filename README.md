@@ -1,6 +1,6 @@
 # TheFirstWebsite
 # My first static website 
-# motive - to provide people free movies and tv-serise
+# motive - to provide people free movies and tv-series
 # to run this --
 1. edit coming-soon.php
 2.  change db_user
