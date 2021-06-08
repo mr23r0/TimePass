@@ -10,7 +10,7 @@
 4.  change db_table
   now you are good to go......
 
-###Technology Stack
+### Technology Stack
 
 1. PHP 
 2. Tailwind Css
