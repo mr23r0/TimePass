@@ -8,7 +8,8 @@
 2.  change db_user
 3.  change db_password
 4.  change db_table
-  now you are good to go......
+  
+now you are good to go......
 
 ### Technology Stack
 
